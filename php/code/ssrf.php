@@ -1,5 +1,5 @@
 <?php
 
 $url = $_GET["url"];
-$resp = file_get_contents($url); // Noncompliants
+$resp = file_get_contents($url); // Noncompliants..
 // ...
